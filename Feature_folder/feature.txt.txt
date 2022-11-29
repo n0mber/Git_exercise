@@ -1,0 +1,3 @@
+Tämä on feature branchin sisältöä.
+Fork ei onnistunut GitHubin kautta - en voinut valita omaa tiliäni fork-repon omistajaksi.
+Tein niin, että tein toisen clonen reposta koneelle ja yritän sillä tavalla demota forkia. 
